@@ -1,142 +1,137 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and python to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "name":"DAOUD Rakine",
+    "description":"Je me présente, je m'appelle",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "bio":"Je suis actuellement étudiant en 3 année de bachelor en alternance au sein de l’école Wis. Ayant obtenu un bac technologique j’ai par la suite fait un bts sio à l’île de la réunion. Grâce à mon bts j’ai eu la possibilité d’effectuer 2 stages au sein du conseil départemental de Mayotte et du carif oref de Mayotte dans le domaine du développement web. ",
+    "contactmessage":"Pour me contacter",
+    "email": "teste@outlook.fr",
+    "phone": "00-00-00-00-00",
     "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "project":"https://www.linkedin.com/in/daoud-rakine-39b1661b1/",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"60 Rue",
+      "city":"Paris",
+      "state":"France",
+      "zip": "75019"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"#",
     "social":[
       {
         "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://www.facebook.com/Haramiste.Rakine/",
         "className":"fa fa-facebook"
       },
       {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"https://twitter.com/HaramisteRakine",
         "className":"fa fa-twitter"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/daoud-rakine-39b1661b1/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://www.instagram.com/rakinee/",
         "className":"fa fa-instagram"
-      },
-      {
-        "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-github"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Mes compétences acquises",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"BACHELOR - WIS 3EME ANNÉE (Paris, La défense)",
+        "degree":"Parcours : Développement full-stack, UX designer, data driven marketing",
+        "graduated":"Octobre 2020"
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"BTS SIO - OPTION SLAM (Saint-Benoit, La Réunion)",
+        "degree":"Lycée Nelson Mandela (Bras Fusil)",
+        "graduated":"2017-2019"
+      },
+      {
+        "school":"BACCALAURÉAT TECHNOLOGIQUE (Mamoudzou, Mayotte) ",
+        "degree":"Lycée Younoussa Bamana, Terminale STMG spécialité SIG",
+        "graduated":"2016"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"CONSEIL DÉPARTEMENTAL DE MAYOTTE",
+        "title":"DEVELOPPEUR WEB - STAGIAIRE",
+        "years":"2019-01-20 / 2019-03-10",
+        "description":"Plateforme de gestion de bourse etudiant : - Framework Laravel - Intégration en HTML/CSS de template (admin lto) - Mise en place d'une base de donnée SQL - Création de requête SQL - Intégration d'un service de messagerie interne en PHP "
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"CARIF OREF - MAYOTTE",
+        "title":"DEVELOPPEUR WEB - STAGIAIRE ",
+        "years":"2018-06-11 / 2018-07-07",
+        "description":"Plateforme site intranet : - CMS (Wordpress) - Intégration de module wordpress - Mise en place d'un gestionnaire d'utilisation - Intégration d'un cloud interne "
+      },
+      {
+        "company":"CONCOURS WEB CUP - MAYOTTE",
+        "title":"Gagnant 3ème place + Page facebook la plus likés ",
+        "years":"2015-05-06 / 2015-05-07",
+        "description":"Création d'un site internet sous 24h + gestion de la page facebook du site.  "
       }
     ],
     "skills":[
       {
-        "name":"Python",
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"Symfony",
         "level":"60%"
       },
       {
-        "name":"VueJs",
-        "level":"55%"
+        "name":"CMS",
+        "level":"70%"
       },
       {
-        "name":"ReactJs",
+        "name":"JAVA",
         "level":"50%"
+      },
+      {
+        "name":"HTML",
+        "level":"90%"
       },
       {
         "name":"CSS",
         "level":"90%"
       },
       {
-        "name":"PHP",
-        "level":"80%"
-      },
-      {
-        "name":"Swift",
+        "name":"Laravel",
         "level":"50%"
       },
+      
       {
-        "name":"JAVA",
-        "level":"80%"
+        "name":"SQL",
+        "level":"70%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"55%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Maoremusic",
+        "category":"Plateforme de musique en ligne",
+        "image":"mmusic.jpg",
+        "url":"http://localhost/mmusic/autoflow"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Hima-Mayotte",
+        "category":"Journal d'information numérique",
+        "image":"hima.jpg",
+        "url":"http://www.hima-mayotte.fr"
       }
     ]
   }

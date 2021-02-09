@@ -20,10 +20,10 @@ class About extends Component {
       <section id="about">
       <div className="row">
          <div className="three columns">
-            <img className="profile-pic"  src={profilepic} alt="Nordic Giant Profile Pic" />
+            <img className="profile-pic"  src={profilepic} alt="D.RAKINE PROFIL" />
          </div>
          <div className="nine columns main-col">
-            <h2>About Me</h2>
+            <h2>A propos</h2>
 
             <p>{bio}</p>
             <div className="row">
@@ -40,7 +40,7 @@ class About extends Component {
                </div>
                <div className="columns download">
                   <p>
-                     <a href={resumeDownload} className="button"><i className="fa fa-download"></i>Download Resume</a>
+                     <a target="_blank" href={require("./mon_cv_rakine.pdf")} className="button"><i className="fa fa-download"></i>Télécharger mon cv</a>
                   </p>
                </div>
             </div>
